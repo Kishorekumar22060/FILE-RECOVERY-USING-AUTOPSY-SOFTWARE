@@ -73,8 +73,8 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 ## OUTPUT:
 Recovered Deleted File List and Details
 <img width="1712" height="905" alt="Screenshot 2025-09-06 141957" src="https://github.com/user-attachments/assets/99d60513-f667-4f8a-85db-23f55767ad38" />
-<img width="1704" height="905" alt="Screenshot 2025-09-06 142143" src="https://github.com/user-attachments/assets/12f1c486-59cf-4425-a323-dd9241df80b1" />
-<img width="1673" height="903" alt="Screenshot 2025-09-06 142229" src="https://github.com/user-attachments/assets/04f94df3-7ba4-4a87-851c-c274d50b50af" />
+<img width="1275" height="651" alt="image" src="https://github.com/user-attachments/assets/650ad073-9733-47ef-ba0e-2c51a6b9d54c" />
+![WhatsApp Image 2025-09-20 at 14 37 15 (2)](https://github.com/user-attachments/assets/267d4f60-ade3-4bf0-933a-9fbf0bd4b6a2)
 
 <img width="1916" height="986" alt="image" src="https://github.com/user-attachments/assets/58c25950-1959-4dc8-856d-299562e573e5" />
 
